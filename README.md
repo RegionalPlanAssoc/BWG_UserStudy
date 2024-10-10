@@ -12,38 +12,38 @@ The Numina count dataset released alongside the Brooklyn Greenway Study contains
 
 
 ### Numina sensor locations
-A-01 McGuinness Blvd and Eagle St
-A-02 Franklin St and Freeman St
-A-03 West St and Greenpoint Ave
-A-04 Quay St and Franklin St
-A-05 Kent Ave and N 9th St
-A-06 Kent Ave and S 4th St
-A-07 Kent Ave and Broadway
-B-01 Naval Cemetery Landscape
-B-02 Flushing Ave and Vanderbilt Ave
-B-07 Flushing Ave and Cumberland Ave*
-B-03 Sands St and Navy St
-B-04 Navy St and York St
-B-05 Jay St and York St
-B-06 Jay St and Prospect St
-C-01 Furman St and Old Fulton St
-C-02 Atlantic Ave and Columbia St
-D-01 Hamilton Ave and Van Brunt
-D-02 Imlay St and Verona St
-D-03 Conover St and Pioneer St*
-D-04 Henry St and Bay St
-E-01 3rd Ave and 29th St*
-E-02 2nd Ave and 59th St
-E-03 67th St and Colonial Rd
-F-01 Shore Rd and Bay Ridge Ave
-F-03 Shore Parkway Greenway and Bay Parkway
-F-04 Bay 52nd and W 52nd*
-G-01 Surf Ave and 15th St*
-G-02 Neptune Ave and Ocean Pkwy*
-H-01 Jamaica Bay Greenway and Flatbush Ave (West)
-H-02 Jamaica Bay Greenway and Flatbush Ave (East)
-H-03 Jamaica Bay Greenway and Canarsie Circle
-H-04 Pennsylvania Ave and Jamaica Bay Greenway*
+- A-01 McGuinness Blvd and Eagle St
+- A-02 Franklin St and Freeman St
+- A-03 West St and Greenpoint Ave
+- A-04 Quay St and Franklin St
+- A-05 Kent Ave and N 9th St
+- A-06 Kent Ave and S 4th St
+- A-07 Kent Ave and Broadway
+- B-01 Naval Cemetery Landscape
+- B-02 Flushing Ave and Vanderbilt Ave
+- B-07 Flushing Ave and Cumberland Ave*
+- B-03 Sands St and Navy St
+- B-04 Navy St and York St
+- B-05 Jay St and York St
+- B-06 Jay St and Prospect St
+- C-01 Furman St and Old Fulton St
+- C-02 Atlantic Ave and Columbia St
+- D-01 Hamilton Ave and Van Brunt
+- D-02 Imlay St and Verona St
+- D-03 Conover St and Pioneer St*
+- D-04 Henry St and Bay St
+- E-01 3rd Ave and 29th St*
+- E-02 2nd Ave and 59th St
+- E-03 67th St and Colonial Rd
+- F-01 Shore Rd and Bay Ridge Ave
+- F-03 Shore Parkway Greenway and Bay Parkway
+- F-04 Bay 52nd and W 52nd*
+- G-01 Surf Ave and 15th St*
+- G-02 Neptune Ave and Ocean Pkwy*
+- H-01 Jamaica Bay Greenway and Flatbush Ave (West)
+- H-02 Jamaica Bay Greenway and Flatbush Ave (East)
+- H-03 Jamaica Bay Greenway and Canarsie Circle
+- H-04 Pennsylvania Ave and Jamaica Bay Greenway*
 
 *Little or no data collected
 
